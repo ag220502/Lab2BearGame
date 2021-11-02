@@ -379,4 +379,4 @@ function start()
     {
         document.getElementById("bear").nextElementSibling.remove();
     }
-} 
+}
